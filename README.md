@@ -5,6 +5,18 @@
 
 ---
 
+[Blender Trackmania Tools](#blender-trackmania-tools)
+  - [Example](#example)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Where are the exported files?](#where-are-the-exported-files)
+  - [How to change Materials?](#how-to-change-materials)
+  - [UV-Layers](#uv-layers)
+  - [Icons](#icons)
+  - [Known Issues](#known-issues)
+  
+---
+
 # Blender Trackmania Tools
 
 You want to create custom Items for Trackmania 2020 using Blender, but you don't want to fiddle with NadeoImporters XML files? This Blender-Addon integrates the NadeoImporter into Blender and packs it into a handy Export-button!
