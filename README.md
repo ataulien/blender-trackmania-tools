@@ -31,7 +31,7 @@ You want to create custom Items for Trackmania 2020 using Blender, but you don't
 
 ## Installation
 
-To use this addon, you need to do two things:
+To use this addon, you need to do the following:
 
  1. Download the NadeoImporter from here: https://nadeo-download.cdn.ubi.com/trackmania/NadeoImporter_2021_01_19.zip
  2. Extract the NadeoImporter to your games install-location, so that all files are in the same folder as `Trackmania.exe`. 
