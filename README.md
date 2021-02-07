@@ -28,7 +28,7 @@ To use this addon, you need to do two things:
     - `C:\Program Files\Ubisoft\Ubisoft Game Launcher\games\Trackmania`
     - `C:\Program Files\Trackmania`
     
- 3. Download the latest release of the Addon
+ 3. Download the [latest release of the Addon (TrackmaniaExport.py)](https://github.com/ataulien/blender-trackmania-tools/releases/latest)
  4. In Blender, go to *Edit* -> *Preferences* -> *Add-Ons* -> *Install...* and select the addon file you just downloaded.
 
     <p align="center">
