@@ -11,9 +11,11 @@ You want to create custom Items for Trackmania 2020 using Blender, but you don't
 
 ## Example
 
-![image](https://user-images.githubusercontent.com/11406580/107148256-943a1000-6952-11eb-9962-38fc3eeab305.png)
-![image](https://user-images.githubusercontent.com/11406580/107148644-acab2a00-6954-11eb-9bbc-8f5f19b7192c.png)
-![image](https://user-images.githubusercontent.com/11406580/107148658-bb91dc80-6954-11eb-945b-081fbcdaa877.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/11406580/107148256-943a1000-6952-11eb-9962-38fc3eeab305.png" width="75%" height="75%">
+  <img src="https://user-images.githubusercontent.com/11406580/107148644-acab2a00-6954-11eb-9bbc-8f5f19b7192c.png" width="75%" height="75%">
+  <img src="https://user-images.githubusercontent.com/11406580/107148658-bb91dc80-6954-11eb-945b-081fbcdaa877.png" width="75%" height="75%">
+</p>
 
 ## Installation
 
@@ -32,13 +34,13 @@ To use this addon, you need to do two things:
  4. In Blender, go to *Edit* -> *Preferences* -> *Add-Ons* -> *Install...* and select the addon file you just downloaded.
 
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/11406580/107147551-f5f87b00-694e-11eb-8cbd-082abfffdc56.png"/>
+      <img src="https://user-images.githubusercontent.com/11406580/107147551-f5f87b00-694e-11eb-8cbd-082abfffdc56.png" width="75%" height="75%"/>
     </p>
 
  5. Search for `Trackmania` and enable the addon! (Make sure you are in the *Community*-tab)
  
     <p align="center">
-      <img src="https://user-images.githubusercontent.com/11406580/107147618-4d96e680-694f-11eb-8546-9962eba1f5b0.png"/>
+      <img src="https://user-images.githubusercontent.com/11406580/107147618-4d96e680-694f-11eb-8546-9962eba1f5b0.png" width="75%" height="75%"/>
     </p>
     
 ## Usage
@@ -46,7 +48,7 @@ To use this addon, you need to do two things:
 Create your model in Blender as usual, then export it as *Trackmania Item (.item.gbx)*.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/11406580/107147681-9f3f7100-694f-11eb-9596-5e85a6683bcc.png"/>
+  <img src="https://user-images.githubusercontent.com/11406580/107147681-9f3f7100-694f-11eb-9596-5e85a6683bcc.png" width="75%" height="75%"/>
 </p>
 
 The NadeoImporter requires the files to be put at very specific locations. Therefore, you don't need to chose a location, as the Addon will handle that for you.
